@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('../fonts/AnyConv.com__Segoe UI.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AnyConv.com__Segoe UI.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/AnyConv.com__Segoe UI.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/Segoe UI.ttf') format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/AnyConv.com__Segoe UI.svg') format('svg'), 
+}
